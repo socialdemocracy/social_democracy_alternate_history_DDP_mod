@@ -282,7 +282,7 @@ Q.parties = ['spd', 'kpd', 'uspd', 'z', 'ddp', 'dvp', 'dnvp', 'dap', 'nsdap', 'o
  
 // TODO: add rdp later
 Q.sapd_formed = 0;
-Q.dap_formed = 0;
+Q.dap_formed = 1;
 Q.nsdap_formed = 0;
 Q.rdp_formed = 0;
 
