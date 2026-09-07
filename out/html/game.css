@@ -283,6 +283,7 @@ blockquote + blockquote.attribution {
 }
 
 /* tabs */
+/* tabs */
 .tab_container {
     background-color: var(--tab-bg-color);
     margin-top: -0.6em;
