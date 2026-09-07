@@ -199,7 +199,4 @@ Catholics: SPD: [+ catholics_spd_display +]%, Z: [+ catholics_z_display +]%, USP
 
 <div> 
 <div style="text-align: center;">
-style="display:inline-block;padding:4px 10px;border:1px solid #431;color:#431;font-size:1em;cursor:pointer;on-click: go-to map2:font-family:Georgia,serif;text-transform:uppercase;letter-spacing:0.05em;">Map</a>
-
-@map2
-go-to: maps
+<h1><a href="#" onclick="window.dendryUI.dendryEngine.goToScene('maps'); return false;" style="display: inline-block; padding: 4px 10px; border: 1px solid #431; color: #431; font-size: 1em; cursor: pointer; font-family: Georgia, serif; text-transform: uppercase; letter-spacing: 0.05em;">Maps</a></h1> 
