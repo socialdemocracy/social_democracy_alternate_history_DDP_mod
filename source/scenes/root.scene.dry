@@ -137,6 +137,40 @@ Q.ddp_industrial_backing = 1;
 // Zentrum BVP split variable for 1920
 Q.bvp_split = 0;
 
+// Territories
+Q.anhalt = 1;
+Q.anhalt_prussia = 0;
+Q.baden = 1;
+Q.baden_wurttemberg = 0;
+Q.wurttemberg = 1;
+Q.bavaria = 1;
+Q.bavaria_independent = 0;
+Q.bremen = 1;
+Q.bremen_prussia = 0;
+Q.brunswick = 1;
+Q.brunswick_prussia = 0;
+Q.hamburg = 1;
+Q.hamburg_prussia = 0;
+Q.hesse = 1;
+Q.hesse_prussia = 0;
+Q.lippe = 1;
+Q.lippe_prussia = 0;
+Q.lippe_brunswick = 0;
+Q.lubeck = 1;
+Q.lubeck_oldenburg = 0;
+Q.meck_schw = 1;
+Q.meck_stre = 1;
+Q.meck = 0;
+Q.oldenburg = 1;
+Q.oldenburg_lubeck = 0;
+Q.prussia = 1;
+Q.saxony = 1;
+Q.saxony_prussia = 1;
+Q.scha_lippe = 1;
+Q.scha_lippe_prussia = 1;
+Q.thuringia = 1;
+Q.thuringia_prussia = 1;
+
 // For Wirtschaftspartei founding in 1920
 Q.wp_founded = 0;
 
