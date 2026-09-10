@@ -146,6 +146,10 @@ Q.austria_unification_opinion = 0;
 // Support amongst the german public for membership in the league of nations
 Q.league_membership_support = 0;
 
+// Anger amongst freikorps, high = assasination risks and coup strenght, low = ability to stop assasinations
+Q.freikorps_anger = 0;
+Q.freikorps_dealt_with = 0;
+
 // Reichsbanner formed?
 Q.reichsbanner_formed = 0;
 
