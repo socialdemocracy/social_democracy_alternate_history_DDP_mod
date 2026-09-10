@@ -25,6 +25,8 @@ We flee the city from the advancing putschists, and join the SPD in calls for a 
   
 Many of the liberal unions join in, crippling the bureaucracy. this, alongside the ADGB, and the far left’s strikes, leads to the putschists and the government negotiating an end to this crisis, aided by Gustav Stresserman of the DVP, and representatives of the Prussian state government. Kapp and Lüttwitz resign, the cabinet is reshuffled, and fresh elections are called. Otto Geßler, formerly of our party, resigns to become reichswehr minister. In party affairs, our right splits en-masse against perceived Bolshevik alignment,  in addition what’s left of industrial funding drying up, and our relationship with the right-wing being permanently crippled. This is, however, offset somewhat by the flood of moderate workers to the party and warming of relations between us and the SPD
 
+New actions to deal with the freikorps and the stability of the republic are now available.
+
 @statement
 subtitle: "The middle way is the best to do during this crisis."
 on-arrival: workers_ddp -= 2*(1-dissent); old_middle_ddp -= 2*(1-dissent); new_middle_ddp -= 2*(1-dissent); rural_ddp -= 2*(1-dissent); catholics_ddp -= 2*(1-dissent); sammlung_dissent += 3; linksliberale_dissent += 3; nationalliberale_dissent += 3; pazifisten_dissent += 3 
@@ -32,7 +34,9 @@ on-arrival: workers_ddp -= 2*(1-dissent); old_middle_ddp -= 2*(1-dissent); new_m
 We have chosen the dull compromise of simply releasing a statement in favor of the Republic without mentioning either the Putsch nor the General Strike, and leaving it upon individual members' conscience whether to stay in Berlin and negotiate or join the Republican Government.
 
 This alienates all classes of our voters to some degree, aswell as being protested by all factions of our party for different reasons. Overall, this course of Action Is neither opposed nor accepted in our party, and everyone has been left slightly unhappy while some have started to questioned our legitimacy as Democratic party.
-  
+
+New actions to deal with the freikorps and the stability of the republic are now available.
+
 @negotiate
 subtitle: "Reichswehr does not fire upon Reichswehr; German shall not fight German."
 on-arrival: workers_ddp -= 10; old_middle_ddp += 8; spd_relation -= 10; kpd_relation -= 10; dvp_relation += 10; dnvp_relation += 10; nationalliberale_strength += 8; nationalliberale_dissent -= 10; linksliberale_dissent += 10; pazifisten_dissent += 10
@@ -42,3 +46,5 @@ We have chosen to ignore the SPD's calls to join them in a general strike, and h
 Although initially it seemed to be going nowhere, we soon managed to strike a deal once the General Strike started to paralyzed the country, granting general amnesty and allowing the generals involved to retire with full pension rights.
 
 The Parties to our right, such as the DVP and DNVP approve, as does the right wing of our party, who have gained significant influence. On the other hand, the Labor and Pacifist wings of our party are in total outrage, with them accusing our leadership of undermining the very principles the party was founded on, and many have threatened to resign following this. Whichever Workers previously supported our party have all certainly defected, and the SPD's relations with us after this has become considerably strained.
+
+New actions to deal with the freikorps and the stability of the republic are now available.
