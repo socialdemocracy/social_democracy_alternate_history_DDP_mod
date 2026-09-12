@@ -13,50 +13,33 @@ go-to: map_menu
 
 @provinces_political 
 
-<div style="position: relative; display: inline-block;">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
+   viewBox="auto"
    version="1.1"
    id="svg1"
-   width="480"
-   height="400"
-   viewBox="0 0 480 400"
-   sodipodi:docname="germany.svg"
-   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1" />
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.64"
-     inkscape:cx="230.79268"
-     inkscape:cy="180.79268"
-     inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g1" />
-  <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
-     id="g1"
-     style="display:inline">
-    <g
-       id="g3"
-       class="trigger-group" data-tooltip="prussia-tooltip"
-       style="display:inline;fill:[? if in_grand_coalition_prussia: #A2B725 ?][? if in_weimar_coalition_prussia: #FC6D6D ?][? if in_popular_front_coalition_prussia: #6C168E ?][? if in_left_coalition_prussia: #8E0000 ?][? if in_spd_majority_prussia: [+ spd_colour +] ?][? if in_center_right_coalition_prussia: #0F4989 ?][? if in_right_coalition_prussia: #818181 ?];fill-opacity:1;stroke-width:20.0315"
-       transform="matrix(1.4769703,0,0,1.5660186,-13.671779,-6.2030639)">
-      <path
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><linearGradient
+       id="swatch25"><stop
+         style="stop-color:#af4b4b;stop-opacity:1;"
+         offset="0"
+         id="stop25" /></linearGradient><marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Dot_l"
+       style="overflow:visible"><path
+         id="path2967"
+         d="M -2.5,-1 C -2.5,1.76 -4.74,4 -7.5,4 C -10.26,4 -12.5,1.76 -12.5,-1 C -12.5,-3.76 -10.26,-6 -7.5,-6 C -4.74,-6 -2.5,-3.76 -2.5,-1 z "
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt;marker-start:none;marker-end:none"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)" /></marker><radialGradient
+       gradientTransform="matrix(0.018,0,0,0.018,336.08733,252.41756)"
+       gradientUnits="userSpaceOnUse"
        r="18.897699"
        cy="557.36621"
        cx="739.68262"
@@ -5399,6 +5382,5 @@ go-to: map_menu
          d="m -985.42671,837.45357 3.5592,2.22449 c 0,0 4.22655,1.7796 5.11635,2.00205 0.8898,0.22245 10.45514,2.6694 10.45514,2.6694 l 14.45923,-1.7796 1.3347,2.6694 1.11225,2.44694 2.44695,0.66735"
          id="path31" /></g></g></svg>
 
-    </g>
-</svg>
+
 
